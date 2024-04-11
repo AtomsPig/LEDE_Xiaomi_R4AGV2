@@ -1,6 +1,6 @@
 # 欢迎来到 LEDE_Xiaomi_R4AGV2 的 LEDE 源码仓库
 
-为小米路由器4A千兆版V2(R4AGV2)添加支持
+本项目基于[LEDE](https://github.com/coolsnowwolf/lede)与1修改，为小米路由器4A千兆版V2(R4AGV2)添加支持
 
 I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_JA.md)
 
@@ -140,9 +140,7 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 
 1. 源代码中绝不含任何后门和可以监控或者劫持你的 HTTPS 的闭源软件， SSL 安全是互联网最后的壁垒。安全干净才是固件应该做到的；
 
-2. QCA IPQ60xx 开源仓库地址：<https://github.com/coolsnowwolf/openwrt-gl-ax1800>
-
-3. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
+2. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
 
 ## 捐贈
 
