@@ -152,14 +152,14 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 
 2. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
 
-## 捐贈
+## 捐赠
 
 如果您觉得此项目对您有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
 
-### 捐贈 LEDE 原作者 Lean
+### 捐赠 LEDE 原作者 Lean
 
  ![star](doc/star.png)
 
-### 捐贈我
+### 捐赠我
 
 感谢您使用此项目，如果您喜欢此项目，可以给此项目点个 star ，您的支持就是对我最大的鼓励
