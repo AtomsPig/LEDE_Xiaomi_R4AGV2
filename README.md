@@ -1,6 +1,6 @@
 # 欢迎来到 LEDE_Xiaomi_R4AGV2 的 LEDE 源码仓库
 
-本项目基于[LEDE](https://github.com/coolsnowwolf/lede)修改，为小米路由器4A千兆版V2(R4AGV2)添加支持
+本项目基于 [LEDE](https://github.com/coolsnowwolf/lede) 修改，为小米路由器4A千兆版V2(R4AGV2)添加支持
 
 本项目参考了以下仓库，感谢开发者们做出的贡献
 * <https://github.com/wbs306/Action_OpenWrt_Xiaomi_R4AG>
@@ -25,7 +25,8 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 
 ### 使用 Action 云编译版本
 
-<https://github.com/AtomsPig/Action_LEDE_Xiaomi_R4AGV2>
+使用 [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) 利用 GitHub Actions 进行云编译
+本项目云编译仓库地址<https://github.com/AtomsPig/Action_LEDE_Xiaomi_R4AGV2>
 
 ### 使用 Linux 进行编译
 
