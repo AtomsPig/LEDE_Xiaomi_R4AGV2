@@ -23,6 +23,8 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 
 ## 编译命令
 
+### 使用 Linux 进行编译
+
 1. 首先装好 Linux 系统，推荐 Debian 11 或 Ubuntu LTS
 
 2. 安装编译依赖
@@ -108,7 +110,7 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 
 > 对已经 `git clone` 完成的项目目录执行 `fsutil.exe` 命令无法生效，大小写敏感只对新增的文件变更有效。
 
-### macOS 原生系统进行编译
+### 使用 macOS 原生系统进行编译
 
 1. 在 AppStore 中安装 Xcode
 
