@@ -156,4 +156,6 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 
 如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
 
+### 捐贈 LEDE 原作者 lean
+
  ![star](doc/star.png)
