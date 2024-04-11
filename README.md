@@ -3,7 +3,7 @@
 本项目基于[LEDE](https://github.com/coolsnowwolf/lede)修改，为小米路由器4A千兆版V2(R4AGV2)添加支持
 
 本项目参考了以下仓库，感谢大佬们做出的贡献
--<https://github.com/wbs306/Action_OpenWrt_Xiaomi_R4AG>
+* <https://github.com/wbs306/Action_OpenWrt_Xiaomi_R4AG>
 
 I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_JA.md)
 
