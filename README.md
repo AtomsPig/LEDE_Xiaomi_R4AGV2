@@ -21,7 +21,11 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 2. 国内用户编译前最好准备好梯子
 3. 默认登陆IP 192.168.1.1 密码 password
 
-## 编译命令
+## 编译
+
+### 使用 Action 云编译版本
+
+<https://github.com/AtomsPig/Action_LEDE_Xiaomi_R4AGV2>
 
 ### 使用 Linux 进行编译
 
